@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSONProbica</string>
+    <string name="get_movie">Get movie</string>
+    <string name="enter_title">Enter title</string>
+</resources>
